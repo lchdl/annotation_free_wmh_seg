@@ -3,7 +3,7 @@
 Chenghao Liu, Zhizheng Zhuo, Liying Qu, Ying Jin, Tiantian Hua, Jun Xu, Guirong Tan, Yuna Li, Yunyun Duan, Tingting Wang,
 Zaiqiang zhang, Yanling zhang, Rui Chen, Pinnan Yu, Peixin Zhang, Yulu Shi, Jianguo Zhang, Decai Tian, Runzhi Li, Xinghu Zhang,
 Fudong Shi, Yanli Wang, Jiwei Jiang, Aaron Carass, Yaou Liu, Chuyang Ye. "[<i><b>DeepWMH: a deep learning tool for accurate white matter
-hyperintensity segmentation without requiring manual annotations for training</i></b>](https://www.sciencedirect.com/science/article/abs/pii/S2095927324000616?via%3Dihub)". Science Bulletin, Jan 2024.
+hyperintensity segmentation without requiring manual annotations for training</i></b>](https://www.sciencedirect.com/science/article/pii/S2095927324000616?via%3Dihub)". Science Bulletin, Jan 2024.
 
 **Supplementary materials**: https://drive.google.com/file/d/13Kyk0v19kRnJ40JC22-p_YK2urnzZcvh/view?usp=sharing
 
